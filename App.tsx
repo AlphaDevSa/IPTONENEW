@@ -62,24 +62,24 @@ import AffiliateDashboardPage from './AffiliateDashboardPage';
 
 const pageMetadata: { [key: string]: { title: string; description: string; keywords: string; } } = {
   '/': {
-    title: 'Business VoIP, Hosted PBX & Fibre South Africa | IPT One',
-    description: 'Premier Business VoIP, Cloud PBX, and Uncapped Fibre solutions for South African organizations. 99.9% uptime and enterprise-grade connectivity.',
-    keywords: "VoIP South Africa, Business Fibre, Cloud PBX, Hosted PBX, SIP Trunks, LTE Data, Web Hosting, Telecoms Provider, Business Internet, 087 Numbers, ICT Solutions",
+    title: 'Business VoIP, Hosted PBX, Fibre & Connectivity South Africa | IPT One Telecoms',
+    description: 'IPT One Telecoms delivers business VoIP, cloud PBX, SIP trunks, hosted phone systems, business fibre, LTE and 5G internet, landline numbers and web hosting for companies across South Africa.',
+    keywords: "business VoIP South Africa, hosted PBX South Africa, cloud PBX, SIP trunks South Africa, business fibre provider, LTE and 5G internet South Africa, business internet provider, VoIP provider Pretoria, VoIP provider Johannesburg, telecoms provider South Africa, landline numbers South Africa, web hosting South Africa, cloud communications South Africa, business phone systems South Africa, AI discoverability telecoms SEO",
   },
   '/about': {
-    title: 'About IPT One | Leading Telecoms Provider in South Africa',
-    description: 'We enable business growth through reliable connectivity. Learn about IPT One\'s mission to provide world-class Voice, Fibre & Cloud infrastructure in SA.',
-    keywords: "About IPT One, Telecoms Company South Africa, ICT Partner, Business Communication, VoIP Provider, Connectivity Solutions, Local Support, Telephony Experts",
+    title: 'About IPT One Telecoms | Leading Business Telecoms Provider in South Africa',
+    description: 'Learn about IPT One Telecoms, a South African business communications provider offering VoIP, PBX, fibre, LTE/5G connectivity, landline numbers and managed support across Gauteng, Cape Town and beyond.',
+    keywords: "about IPT One, telecoms company South Africa, ICT partner South Africa, business communications provider, VoIP provider in South Africa, business fibre provider, telecoms support South Africa, cloud PBX partner, VoIP provider Pretoria, telecoms provider Johannesburg",
   },
   '/services': {
-    title: 'Business ICT Services | VoIP, Fibre & Cloud Solutions SA | IPT One',
-    description: "Explore our comprehensive technology solutions. From crystal-clear VoIP and high-speed Fibre to scalable Cloud Hosting for modern businesses in South Africa.",
-    keywords: "ICT Services, Business Communication, VoIP Services, Internet Connectivity, Cloud Solutions, Managed Services, Telecoms Solutions, Business Fibre",
+    title: 'Business ICT Services | VoIP, Hosted PBX, Fibre, LTE & Web Hosting South Africa | IPT One',
+    description: 'Explore IPT One Telecoms services for modern businesses, including hosted PBX, SIP trunking, virtual landline numbers, contact centre solutions, business fibre, LTE and 5G internet, and web hosting services.',
+    keywords: "business ICT services South Africa, VoIP services South Africa, hosted PBX South Africa, business phone systems South Africa, SIP trunking South Africa, business fibre South Africa, LTE and 5G internet South Africa, web hosting South Africa, telecoms solutions South Africa, call centre software South Africa",
   },
   '/connectivity': {
-    title: 'Business Connectivity | Fibre Internet, LTE & 5G | IPT One',
-    description: 'Reliable Fibre Internet, LTE and 5G connectivity for South African homes and businesses. Fast, scalable, and expertly managed from start to finish.',
-    keywords: 'Business Connectivity, Fibre Internet, LTE, 5G, Business Internet South Africa, Connectivity Solutions, Fibre Provider, LTE Data',
+    title: 'Business Connectivity | Fibre Internet, LTE & 5G South Africa | IPT One',
+    description: 'Reliable business fibre, LTE and 5G connectivity for homes and companies in South Africa. Find flexible, scalable internet solutions from IPT One Telecoms.',
+    keywords: 'business connectivity South Africa, fibre internet South Africa, LTE and 5G internet South Africa, business fibre provider, fixed wireless internet South Africa, fibre provider Johannesburg, LTE provider Pretoria, 5G provider South Africa, business internet South Africa',
   },
   '/connectivity/fiber-internet': {
     title: 'Fibre Internet | Business & Home Connectivity | IPT One',
@@ -239,7 +239,7 @@ const pageMetadata: { [key: string]: { title: string; description: string; keywo
   '/partners': {
     title: 'Telecoms Partner Programs | Reseller, Agent & Wholesale | IPT One',
     description: 'Partner with IPT One to grow revenue. Join our Agent referral program, become a White-Label Reseller, or access Wholesale carrier rates.',
-    keywords: "Telecoms Partner, Reseller Program, Agent Program, Wholesale Telecoms, Business Partnership, White Label Telecoms, Wholesale VoIP, ICT Partner",
+    keywords: "telecoms partner South Africa, affiliate telecoms program, agent program South Africa, reseller telecoms South Africa, wholesale VoIP South Africa, white label telecoms, business partner South Africa, ICT partner South Africa, telecoms affiliate program",
   },
   '/partners/agents': {
     title: 'Telecoms Agent Program | Earn Recurring Commissions | IPT One',
@@ -283,8 +283,8 @@ const pageMetadata: { [key: string]: { title: string; description: string; keywo
   },
   '/contact': {
     title: 'Contact IPT One | Sales & Support for Business Telecoms',
-    description: 'Contact IPT One for sales & support. Get custom quotes, technical help, or expert advice on VoIP & connectivity solutions 24/7.',
-    keywords: "Contact IPT One, Telecoms Support, Sales Inquiry, Customer Service, Tech Support, VoIP Help, Fibre Support, Contact Us",
+    description: 'Contact IPT One for sales support, customer service and technical help on VoIP, hosted PBX, fibre, LTE/5G and business internet solutions across South Africa.',
+    keywords: "contact IPT One, telecoms support South Africa, business VoIP sales South Africa, fibre support South Africa, sales inquiry South Africa, VoIP support South Africa, business internet support South Africa, telecoms customer service South Africa",
   },
   '/faq': {
     title: 'Telecoms FAQ | Support for VoIP, Fibre & Hosting | IPT One',

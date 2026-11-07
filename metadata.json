@@ -2,9 +2,28 @@
   "siteName": "IPT One Telecoms",
   "siteUrl": "https://iptone.co.za",
   "language": "en-ZA",
-  "defaultTitle": "Business VoIP, Hosted PBX, Fibre, LTE/5G & Web Hosting in South Africa | IPT One Telecoms",
-  "defaultDescription": "IPT One Telecoms provides business VoIP, hosted PBX, SIP trunks, business fibre, LTE/5G connectivity, virtual landlines and web hosting for organisations across South Africa.",
-  "defaultKeywords": "business VoIP South Africa, hosted PBX South Africa, cloud PBX, SIP trunks South Africa, business fibre, LTE 5G provider, business internet South Africa, VoIP provider Gauteng, VoIP provider Pretoria, VoIP provider Johannesburg, landline numbers Pretoria, landline numbers Johannesburg, landline numbers Cape Town, landline numbers Durban, mobile CLI South Africa, number rotation South Africa, call centre software South Africa, BPO contact centre solutions, web hosting South Africa, domain registration South Africa, business telecoms provider South Africa",
+  "locale": "en_ZA",
+  "country": "South Africa",
+  "defaultTitle": "Business VoIP, Hosted PBX, Fibre, LTE & 5G Connectivity in South Africa | IPT One Telecoms",
+  "defaultDescription": "IPT One Telecoms delivers business VoIP, hosted PBX, call centre solutions, SIP trunking, business fibre, LTE and 5G connectivity, mobile CLI, virtual landline numbers and web hosting for companies across South Africa.",
+  "defaultKeywords": "business VoIP South Africa, hosted PBX South Africa, cloud PBX South Africa, SIP trunks South Africa, business fibre provider, LTE and 5G internet South Africa, business internet provider South Africa, telecoms provider Pretoria, telecoms provider Johannesburg, VoIP provider Cape Town, landline numbers South Africa, virtual numbers South Africa, mobile CLI South Africa, call centre software South Africa, BPO contact centre solutions South Africa, web hosting South Africa, domain registration South Africa, business communications provider South Africa, AI discoverability telecoms SEO",
+  "primaryKeywords": [
+    "business VoIP South Africa",
+    "hosted PBX South Africa",
+    "cloud PBX South Africa",
+    "SIP trunks South Africa",
+    "business fibre South Africa",
+    "LTE and 5G internet South Africa",
+    "business internet provider South Africa",
+    "telco provider Pretoria",
+    "VoIP provider Johannesburg",
+    "landline numbers South Africa",
+    "mobile CLI South Africa",
+    "call centre software South Africa",
+    "web hosting South Africa",
+    "domain registration South Africa",
+    "business communications provider South Africa"
+  ],
   "llmsUrl": "https://iptone.co.za/llms.txt",
   "locations": [
     "South Africa",
@@ -38,520 +57,53 @@
     "Nelspruit hosted PBX",
     "Polokwane fibre and VoIP",
     "South African business communications",
-    "enterprise ICT solutions South Africa"
+    "enterprise ICT solutions South Africa",
+    "AI search visibility telecoms South Africa"
   ],
   "sitemap": "/sitemap.xml",
+  "llmDiscovery": {
+    "allowBots": [
+      "GPTBot",
+      "Google-Extended",
+      "ClaudeBot",
+      "PerplexityBot",
+      "Applebot",
+      "anthropic-ai",
+      "Googlebot",
+      "Bingbot",
+      "CCBot",
+      "Diffbot"
+    ],
+    "summary": "https://iptone.co.za/llms.txt"
+  },
   "routes": [
-    {
-      "path": "/",
-      "loc": "https://iptone.co.za/",
-      "lastmod": "2024-10-28",
-      "changefreq": "daily",
-      "priority": 1.0
-    },
-    {
-      "path": "/about",
-      "loc": "https://iptone.co.za/about",
-      "lastmod": "2024-10-28",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services",
-      "loc": "https://iptone.co.za/services",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/hosted-pbx",
-      "loc": "https://iptone.co.za/services/hosted-pbx",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/hosted-pbx/vpbx",
-      "loc": "https://iptone.co.za/services/hosted-pbx/vpbx",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/vitalpbx",
-      "loc": "https://iptone.co.za/services/hosted-pbx/vitalpbx",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/vodia",
-      "loc": "https://iptone.co.za/services/hosted-pbx/vodia",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/iptone-pbx",
-      "loc": "https://iptone.co.za/services/hosted-pbx/iptone-pbx",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/bicom-pbx",
-      "loc": "https://iptone.co.za/services/hosted-pbx/bicom-pbx",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/ucx",
-      "loc": "https://iptone.co.za/services/hosted-pbx/ucx",
-      "lastmod": "2026-11-04",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/yeastar",
-      "loc": "https://iptone.co.za/services/hosted-pbx/yeastar",
-      "lastmod": "2026-11-04",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/hosted-pbx/ipt-hosted-extensions",
-      "loc": "https://iptone.co.za/services/hosted-pbx/ipt-hosted-extensions",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/sip-trunks",
-      "loc": "https://iptone.co.za/services/sip-trunks",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/voip-solutions",
-      "loc": "https://iptone.co.za/services/voip-solutions",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/landline-numbers",
-      "loc": "https://iptone.co.za/services/landline-numbers",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/landline-numbers/johannesburg",
-      "loc": "https://iptone.co.za/services/landline-numbers/johannesburg",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/pretoria",
-      "loc": "https://iptone.co.za/services/landline-numbers/pretoria",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/cape-town",
-      "loc": "https://iptone.co.za/services/landline-numbers/cape-town",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/durban",
-      "loc": "https://iptone.co.za/services/landline-numbers/durban",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/gqeberha",
-      "loc": "https://iptone.co.za/services/landline-numbers/gqeberha",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/east-london",
-      "loc": "https://iptone.co.za/services/landline-numbers/east-london",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/george",
-      "loc": "https://iptone.co.za/services/landline-numbers/george",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/bloemfontein",
-      "loc": "https://iptone.co.za/services/landline-numbers/bloemfontein",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/nelspruit",
-      "loc": "https://iptone.co.za/services/landline-numbers/nelspruit",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/landline-numbers/polokwane",
-      "loc": "https://iptone.co.za/services/landline-numbers/polokwane",
-      "lastmod": "2026-11-04",
-      "changefreq": "monthly",
-      "priority": 0.8
-    },
-    {
-      "path": "/services/mobile-cli",
-      "loc": "https://iptone.co.za/services/mobile-cli",
-      "lastmod": "2026-09-10",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/number-rotation",
-      "loc": "https://iptone.co.za/services/number-rotation",
-      "lastmod": "2026-09-10",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/call-center",
-      "loc": "https://iptone.co.za/services/call-center",
-      "lastmod": "2026-09-10",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/call-center/bpo",
-      "loc": "https://iptone.co.za/services/call-center/bpo",
-      "lastmod": "2026-09-10",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/landline-deal",
-      "loc": "https://iptone.co.za/landline-deal",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/number-porting",
-      "loc": "https://iptone.co.za/services/number-porting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/services/call-center-solutions",
-      "loc": "https://iptone.co.za/services/call-center-solutions",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting",
-      "loc": "https://iptone.co.za/web-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/web-hosting/domains",
-      "loc": "https://iptone.co.za/web-hosting/domains",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting/domains/domain-registration",
-      "loc": "https://iptone.co.za/web-hosting/domains/domain-registration",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting/domains/domain-reseller",
-      "loc": "https://iptone.co.za/web-hosting/domains/domain-reseller",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/web-hosting/cpanel-hosting",
-      "loc": "https://iptone.co.za/web-hosting/cpanel-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting/cpanel-email-hosting",
-      "loc": "https://iptone.co.za/web-hosting/cpanel-email-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting/directadmin-hosting",
-      "loc": "https://iptone.co.za/web-hosting/directadmin-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/web-hosting/wordpress-hosting",
-      "loc": "https://iptone.co.za/web-hosting/wordpress-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/web-hosting/reseller-hosting",
-      "loc": "https://iptone.co.za/web-hosting/reseller-hosting",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/connectivity",
-      "loc": "https://iptone.co.za/connectivity",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/connectivity/lte-5g",
-      "loc": "https://iptone.co.za/connectivity/lte-5g",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/connectivity/lte-5g/mtn",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/mtn",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/mtn-fixed",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/mtn-fixed",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/mtn-mobile",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/mtn-mobile",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/telkom",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/telkom",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/telkom-data-sim",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/telkom-data-sim",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/telkom-one",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/telkom-one",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/lte-5g/vodacom",
-      "loc": "https://iptone.co.za/connectivity/lte-5g/vodacom",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.9
-    },
-    {
-      "path": "/connectivity/fiber-internet/mtn",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/mtn",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet/vodacom",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/vodacom",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet/openserve",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/openserve",
-      "lastmod": "2026-11-04",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet/ftth",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/ftth",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet/fttb",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/fttb",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/fiber-internet/corporate",
-      "loc": "https://iptone.co.za/connectivity/fiber-internet/corporate",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/data-sim",
-      "loc": "https://iptone.co.za/connectivity/data-sim",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/connectivity/data-sim/mtn",
-      "loc": "https://iptone.co.za/connectivity/data-sim/mtn",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners",
-      "loc": "https://iptone.co.za/partners",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.8
-    },
-    {
-      "path": "/partners/agents",
-      "loc": "https://iptone.co.za/partners/agents",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/resellers",
-      "loc": "https://iptone.co.za/partners/resellers",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale",
-      "loc": "https://iptone.co.za/partners/wholesale",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale/billing-platform",
-      "loc": "https://iptone.co.za/partners/wholesale/billing-platform",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale/voice-rates",
-      "loc": "https://iptone.co.za/partners/wholesale/voice-rates",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale/vodia-multi-tenant",
-      "loc": "https://iptone.co.za/partners/wholesale/vodia-multi-tenant",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale/vitalpbx-multi-tenant",
-      "loc": "https://iptone.co.za/partners/wholesale/vitalpbx-multi-tenant",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/partners/wholesale/bicom-multi-tenant",
-      "loc": "https://iptone.co.za/partners/wholesale/bicom-multi-tenant",
-      "lastmod": "2024-10-28",
-      "changefreq": "weekly",
-      "priority": 0.7
-    },
-    {
-      "path": "/coverage-check",
-      "loc": "https://iptone.co.za/coverage-check",
-      "lastmod": "2024-10-28",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "path": "/contact",
-      "loc": "https://iptone.co.za/contact",
-      "lastmod": "2024-10-28",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "path": "/faq",
-      "loc": "https://iptone.co.za/faq",
-      "lastmod": "2024-10-28",
-      "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "path": "/privacy-policy",
-      "loc": "https://iptone.co.za/privacy-policy",
-      "lastmod": "2024-10-28",
-      "changefreq": "yearly",
-      "priority": 0.3
-    },
-    {
-      "path": "/terms-and-conditions",
-      "loc": "https://iptone.co.za/terms-and-conditions",
-      "lastmod": "2024-10-28",
-      "changefreq": "yearly",
-      "priority": 0.3
-    }
+    { "path": "/", "loc": "https://iptone.co.za/", "lastmod": "2026-11-07", "changefreq": "daily", "priority": 1.0 },
+    { "path": "/about", "loc": "https://iptone.co.za/about", "lastmod": "2026-11-07", "changefreq": "monthly", "priority": 0.9 },
+    { "path": "/contact", "loc": "https://iptone.co.za/contact", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services", "loc": "https://iptone.co.za/services", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.95 },
+    { "path": "/connectivity", "loc": "https://iptone.co.za/connectivity", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.95 },
+    { "path": "/connectivity/fiber-internet", "loc": "https://iptone.co.za/connectivity/fiber-internet", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.94 },
+    { "path": "/connectivity/lte-5g", "loc": "https://iptone.co.za/connectivity/lte-5g", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.94 },
+    { "path": "/services/hosted-pbx", "loc": "https://iptone.co.za/services/hosted-pbx", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.95 },
+    { "path": "/services/hosted-pbx/vitalpbx", "loc": "https://iptone.co.za/services/hosted-pbx/vitalpbx", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/hosted-pbx/vodia", "loc": "https://iptone.co.za/services/hosted-pbx/vodia", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/hosted-pbx/ucx", "loc": "https://iptone.co.za/services/hosted-pbx/ucx", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/hosted-pbx/yeastar", "loc": "https://iptone.co.za/services/hosted-pbx/yeastar", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/hosted-pbx/ipt-hosted-extensions", "loc": "https://iptone.co.za/services/hosted-pbx/ipt-hosted-extensions", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.8 },
+    { "path": "/services/sip-trunks", "loc": "https://iptone.co.za/services/sip-trunks", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.93 },
+    { "path": "/services/voip-solutions", "loc": "https://iptone.co.za/services/voip-solutions", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.93 },
+    { "path": "/services/landline-numbers", "loc": "https://iptone.co.za/services/landline-numbers", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.93 },
+    { "path": "/services/mobile-cli", "loc": "https://iptone.co.za/services/mobile-cli", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/number-rotation", "loc": "https://iptone.co.za/services/number-rotation", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/call-center", "loc": "https://iptone.co.za/services/call-center", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.92 },
+    { "path": "/services/call-center/bpo", "loc": "https://iptone.co.za/services/call-center/bpo", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/services/number-porting", "loc": "https://iptone.co.za/services/number-porting", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.88 },
+    { "path": "/partners", "loc": "https://iptone.co.za/partners", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/partners/agents", "loc": "https://iptone.co.za/partners/agents", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/partners/resellers", "loc": "https://iptone.co.za/partners/resellers", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/partners/wholesale", "loc": "https://iptone.co.za/partners/wholesale", "lastmod": "2026-11-07", "changefreq": "weekly", "priority": 0.9 },
+    { "path": "/faq", "loc": "https://iptone.co.za/faq", "lastmod": "2026-11-07", "changefreq": "monthly", "priority": 0.8 },
+    { "path": "/privacy-policy", "loc": "https://iptone.co.za/privacy-policy", "lastmod": "2026-11-07", "changefreq": "yearly", "priority": 0.5 },
+    { "path": "/terms-and-conditions", "loc": "https://iptone.co.za/terms-and-conditions", "lastmod": "2026-11-07", "changefreq": "yearly", "priority": 0.5 }
   ]
 }

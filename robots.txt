@@ -1,23 +1,19 @@
 # robots.txt - IPT One Telecoms
 # https://iptone.co.za
-# Last updated: 2026-11-04
+# Last updated: 2026-11-07
 
-# ---------------------------------------------------------------
-# Search engine crawlers - full access
-# ---------------------------------------------------------------
 User-agent: *
 Allow: /
 Allow: /llms.txt
+Allow: /sitemap.xml
 Disallow: /404
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
 
 Host: iptone.co.za
 
-# ---------------------------------------------------------------
-# AI / LLM crawlers - explicitly allowed so that ChatGPT, Gemini,
-# Google AI Overviews, Perplexity, Claude, Copilot and other AI
-# platforms can read, cite and recommend IPT One Telecoms content.
-# See https://iptone.co.za/llms.txt for a machine-readable summary.
-# ---------------------------------------------------------------
+# AI / LLM / answer-engine crawlers
 User-agent: GPTBot
 Allow: /
 
